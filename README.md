@@ -1,1 +1,0 @@
-# lamp-template for projspace
